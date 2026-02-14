@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @xxviolettecxx
 - 👀 I’m interested in animals, computers, drawing, and music.
-- 🌱 I’m currently learning programming and veterinary technology
-- 💞️ I’m looking to collaborate on whatever project I find interesting.
-- 📫 How to reach me: don't.
+- 🌱 I’m currently learning programming
+- 💞️ I’m looking to collaborate on whatever project I find interesting
 - 😄 Pronouns: she/they
 - ⚡ Fun fact: I don't have one at the moment.
 
